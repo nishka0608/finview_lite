@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FinView Lite
 
 A modern **Flutter investment dashboard** that visualizes a user's portfolio, holdings, and returns using local JSON data.
@@ -76,3 +77,4 @@ Demo Video Link
 https://drive.google.com/drive/folders/1WKDz2Jz3fHHa3u-fbpmn9C1oa5TnUAxy
 
 Screenshots: https://drive.google.com/drive/folders/1WKDz2Jz3fHHa3u-fbpmn9C1oa5TnUAxy
+
